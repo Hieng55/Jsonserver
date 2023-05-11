@@ -17,5 +17,3 @@
         "nodemon": "^2.0.22"
     }
 }
-
-git commit -m "JSON Server"
